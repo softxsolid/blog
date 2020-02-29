@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is Hagura?"
+title:  "스타트업은 어떻게 브랜딩할까?"
 date:   2016-09-18 23:34:56 +0530
 ---
 
