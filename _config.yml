@@ -10,7 +10,7 @@ highlighter: rouge
 markdown: kramdown
 
 
-paginate: 7
+paginate: 4
 
 
 # Tracker
