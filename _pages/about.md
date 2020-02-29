@@ -1,5 +1,5 @@
 ---
-title: About Hagura
+title: About soft x solid
 layout: post
 permalink: /about/
 published: true
