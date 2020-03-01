@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "about soft x solid"
+date:   2020-03-01 23:34:56 +0530
+categories: branding
+tags: [web, jekyll]
 ---
 
 soft x solid는 <br>
