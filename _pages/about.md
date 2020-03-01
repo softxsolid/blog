@@ -4,7 +4,7 @@ layout: post
 permalink: /about/
 published: true
 ---
-
+<h6>
 <p> 부드럽고 단단한 부단은 글과 디자인을 매개로 하는 창작자이다.<br>
 이전에는 그래픽 디자인과 브랜드 기획자로 일했고,<br>
 재미와 경제적인 보상이 함께 하는 일을 탐색 중이다.<br> 
@@ -18,6 +18,7 @@ published: true
 브랜드는 정체성을 구현하는 일이다.<br>
 따라서 브랜드와 연구자 개인이 비슷한 결을 가질 때 산출물의 농도가 짙다.<br>
 브랜드 연구자 부단은 본인과 비슷한 브랜드를 만나기 위해 부단히도 노력한다.<br>
-같이 하면 재밌을 일을 알고 있다면 <a href="softxsolid@gmail.com">e-mail</a>을 보내주시길 바란다.<br> </p>
-또는 
-<a href="https://www.instagram.com/softxsolid/">instagram</a>과 <a href="https://twitter.com/softxsolid">twitter</a>로 연결될 수 있다.
+같이 하면 재밌을 일을 알고 있다면 <a href="softxsolid@gmail.com">e-mail</a>을 보내주시길 바란다.<br> 
+또는 <a href="https://www.instagram.com/softxsolid/">instagram</a>과 <a href="https://twitter.com/softxsolid">twitter</a>로 연결될 수 있다.</p>
+
+</h6>
