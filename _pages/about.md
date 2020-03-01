@@ -18,7 +18,7 @@ published: true
 브랜드는 정체성을 구현하는 일이다.<br>
 따라서 브랜드와 연구자 개인이 비슷한 결을 가질 때 산출물의 농도가 짙다.<br>
 브랜드 연구자 부단은 본인과 비슷한 브랜드를 만나기 위해 부단히도 노력한다.<br>
-같이 하면 재밌을 일을 알고 있다면 <a href="softxsolid@gmail.com">e-mail</a>을 보내주시길 바란다.<br> 
+같이 하면 재밌을 일을 알고 있다면 <a href="mailto:softxsolid@gmail.com">e-mail</a>을 보내주시길 바란다.<br> 
 또는 <a href="https://www.instagram.com/softxsolid/">instagram</a>과 <a href="https://twitter.com/softxsolid">twitter</a>로 연결될 수 있다.</p>
 
 
