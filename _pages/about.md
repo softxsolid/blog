@@ -5,10 +5,11 @@ permalink: /about/
 published: true
 ---
 
-For more themes please visit [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
-
-Does the theme deserve a star?
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sharu725/hagura" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star sharu725/hagura on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+부드럽고 단단한 부단은 글과 디자인을 매개로 하는 창작자이다.
+이전에는 그래픽 디자인과 브랜드 기획을 했고, 
+재미와 경제적인 보상이 함께 하는 일을 탐색 중이다. 
+여성이자 한 동물의 가족이고, 환경에 덜 해를 끼치는 싶어하는 사람이다. 
+건강한 삶을 추구하지만, 일로서 얻는 보람을 중시하여 항상 일을 하고 있는 것이 함정이다.
+언제나 건축가를 꿈꾼다. 
+몸을 유연하게 하며 속근육이 단단해지는 요가를 좋아한다.
+무르지만 또 단단한 사람이고 싶어 softxsolid라는 이름을 지었다.
