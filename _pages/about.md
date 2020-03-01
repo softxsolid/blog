@@ -12,7 +12,7 @@ published: true
   건강한 삶을 추구하지만, 일로서 얻는 보람을 중시하여 항상 일을 하고 있는 것이 함정이다.<br>
   언제나 건축가를 꿈꾼다.<br>
   몸을 유연하게 하며 속 근육이 단단해지는 요가를 좋아한다.<br>
-  무르지만, 또 단단한 사람이고 싶어 <a href="https://softxsolid.github.io/blog">softxsolid</a>라는 이름을 지었다.<br> 
+  유연하지만, 또 단단한 사람이고 싶어 <a href="https://softxsolid.github.io/blog">softxsolid</a>라는 이름을 지었다.<br> 
 </p>
 
 <p> 첫번째 하는 일은 <br>
