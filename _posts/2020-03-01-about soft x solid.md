@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "about soft x solid"
+title:  "길을 잃지 않는 방법"
 date:   2020-03-01 23:34:56 +0530
 categories: branding
 tags: [web, jekyll]
