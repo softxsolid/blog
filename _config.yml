@@ -32,8 +32,6 @@ compress_html:
   profile: false
   startings: []
 
-plugins:
-  - jekyll-archives
 
 sass:
   sass_dir: /assets/css/_sass
