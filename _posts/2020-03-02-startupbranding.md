@@ -3,6 +3,7 @@ layout: post
 title:  "지속가능한 브랜딩은 어떤 것일까?"
 date:   2020-03-01 23:34:56 +0530
 categories: branding
+tags: [web, jekyll]
 ---
 
 
