@@ -6,10 +6,11 @@ categories: consumer
 tags: [fashion, shoes, nike, newbalace]
 ---
 
-# 주제:
-예쁜 운동화를 좋아한다. <br> 
-원래 그랬던 것은 아니다. <br>
-최근의 어떤 착장이 너무 마음에 들었고, 그 룩을 완성하는 가장 중요한 요소는 바로 이 운동화였기 때문이다. <br>
+# 그놈의 꾸안꾸 룩
+요즘은 예쁜 운동화가 좋다. <br>
+트랜드라면 트랜드일 수 있겠지만, 꾸안꾸 룩에 푹 빠져 있다. <br>
+꾸미지 않은 듯 꾸민 그 모습이 지금 나라는 사람을 잘 표현할 수 있는 모습이라고 생각했다. <br>
+운동화는 그 룩을 완성하는 정점에 있는 아이템이다.<br>
 
 * Do not remove this line (it will not be displayed) 
 {:toc}
@@ -19,7 +20,7 @@ tags: [fashion, shoes, nike, newbalace]
 나이가 뭐 별건 아니라지만, <br>
 그래도 갖춰 입어야 하는 나이가 된 것 같다. <br>
 그래서 나의 요즘 최대 관심사는 어떻게 나만의 개성있는 룩을 완성할 수 있을까 이다. <br>
-이제 정장스러운 
+이제 정장스러운 옷을 입어야 할 때긴 한데, 모든 부분을 그렇게 입으면 그건 왜인지 나같지 않은 느낌이 든다. <br> 
 
 ## emmi의 발견
 작년 겨울, 교토에서 발견한 브랜드의 원픽을 꼽으라면 바로 emmi이다.<br>
@@ -29,10 +30,9 @@ tags: [fashion, shoes, nike, newbalace]
 2. 자연스럽고 편안하다.<br>
 3. 그러면서도 기품은 유지한다.<br>
 
-<p>
-겨울 옷으로 스키복 같은 위 아래 착장을 샀다. <br>
+
+겨울 옷으로 위 아래 세트를 샀다. <br>
 바지가 특히 마음에 들었다. <br>
-</p>
 
 1. 고무줄이어서 허리가 편하고<br>
 2. 기모가 되어 있어 따뜻하고<br>
@@ -49,7 +49,6 @@ tags: [fashion, shoes, nike, newbalace]
 트레이닝복을 매치시켜 입는 유투브를 봤는데, 역시 꾸안꾸의 전문가다. <br>
 승아님의 뉴발 452 운동화를 너무 사고 싶은데 어딜가나 품절이다. 속상하네.<br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/9FPStSzbM3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 ## 나다운 패션은
@@ -77,5 +76,7 @@ tags: [fashion, shoes, nike, newbalace]
 * 블랙, 카키 이제 그만 사자. <br>
 * 가방은 너무 사치부리지 말자. <br>
 
+무탈하게도 이런 생각들을 하며 살고 있다. 
+조금 더 건강하게 채워가는 느낌이 든다. 
 아무튼 재미있는 요즘이다.
 
