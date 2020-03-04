@@ -35,7 +35,7 @@ tags: [fashion, sneakers, emmi, nike, newbalace]
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/emmi-cd.png)</a><br>
 emmi의 디지털 카달로그이다.<br>
 연신 크디*가 미쳤나봐!를 외쳤다.<br>
-<h6>*크리에이티브 디렉터</h6><br>
+<h6>*크리에이티브 디렉터</h6>
 
 교토에서 산 바지가 특히 마음에 들었다. <br>
 
@@ -47,7 +47,7 @@ emmi의 디지털 카달로그이다.<br>
 
 <img src="https://d13bk85vz164q6.cloudfront.net/emmi/ProductSubImages/0/13WFP195020_p_03_LL.jpg" style="max-width: 40%; height: auto;">
 <h6>*품절되었다.</h6>
-
+<br>
 ## 승아로운
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9FPStSzbM3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 윤승아님의 유투브도 참 좋아한다. <br>
