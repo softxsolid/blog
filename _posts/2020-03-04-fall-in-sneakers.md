@@ -7,10 +7,10 @@ tags: [fashion, sneakers, emmi, nike, newbalace]
 ---
 
 # 그놈의 꾸안꾸 룩
+요즘은 예쁜 운동화가 좋다. <br>
 트랜드라면 트랜드일 수 있겠지만, <br>
 꾸미지 않은 듯 꾸미는 착장이 지금의 나라는 사람을 잘 표현할 수 있는 모습이라고 생각했다. <br>
 운동화는 그 룩을 완성하는 정점에 있는 아이템이다.<br>
-그래서 나는 요즘 예쁜 운동화가 좋다. <br>
 
 * Do not remove this line (it will not be displayed) 
 {:toc}
@@ -75,20 +75,14 @@ emmi의 디지털 카달로그이다.<br>
 * 안 입지만 못 버리던 옷들을 버릴 수 있게 해주었다.<br> 
 * 무얼 입을지 고민하는 시간을 줄일 수 있는 팁을 전수받았다.<br> 
 
-<br>
-기준을 정해보았다. <br>
-### 지향점 
-* 정장과 캐주얼을 반반 정도 섞어 입는다.<br>
-* 밝은 컬러의 옷들을 선호한다.<br>
-* 페미닌한 착장에 스포티한 운동화를 매치하는 시도를 해보자.<br>
-* 운동화에 돈 아끼지 말자. 기본부터 포인트 되는 것까지 다양하게.<br>
-* 질 좋고 실용적인 가방<br>
+## 일본은 지금 #Kotoo 운동 중 
 
-### 지양점
-* 불편한 것은 입지 말자.<br>
-* 블랙, 카키 이제 그만 사자. <br>
-* 가방은 너무 사치 부리지 말자. <br>
+<!-- Google / Search Engine Tags / 구글 검색 엔진 -->
+<meta itemprop="name" content="Daum">
+<meta itemprop="description" content="#KuToo: 일본 여성들이 벌이는 하이힐 해방 운동">
+<meta itemprop="image" content="https://www.bbc.com/korean/news-48507642">
 
-<br>
-무탈하게도 나는 요즘 이런 생각들을 하며 살고 있다. <br>
-매우 유익한 요즘이다. <br>
+#KuToo는 일본 여성들이 벌이는 하이힐 해방 운동이다.
+일하는 장소에서 
+
+
