@@ -40,7 +40,7 @@ tags: [designer planner pipeline]
 우연한 기회에 아주 좋은 제안을 받았다. <br>
 {% highlight css %}
 직전 연봉 대비 16% 인상, 스톡옵션, 안정적인 사업구조, 돈이 많은 스타트업, 스타트업의 디자인 총괄
-{% endhighlight %} <br>
+{% endhighlight %} 
 내가 원하던 3.4.5.의 조건이 충족되는 회사였다. <br>
 고민이 많이 되었다.<br>
 최종 면접까지 보고, 출근도 하기로 했다.<br>
