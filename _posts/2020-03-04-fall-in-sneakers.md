@@ -64,7 +64,7 @@ emmi의 디지털 카달로그이다.<br>
 
 이 책이 도움이 되었다.<br>
 <a href="http://www.yes24.com/Product/Goods/66992512" title="주말엔 옷장 정리 ⎟ 이문연 지음 ⎟ 김래현 그림">
- <img src="http://image.yes24.com/goods/66992512/800x0" style="max-width: 40%; height: auto;"> 
+ <img src="http://image.yes24.com/goods/66992512/800x0" style="max-width: 30%; height: auto;"> <br>
  주말엔 옷장 정리 ⎟ 이문연 지음 ⎟ 김래현 그림 <br>
  
 
