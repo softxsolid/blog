@@ -70,6 +70,7 @@ tags: [designer planner pipeline]
 이 개념을 <a href="https://www.youtube.com/channel/UCw0wD0BctMf0cUHiz_jh36Q/featured" title="N잡하는 허대리">N잡하는 허대리*</a>는 <b>파이프라인</b>이라고 설명한다.<br>
 파이프라인 우화의 요는 이렇다. 파이프라인을 공사하는 데는 꾸준한 투자가 필요하고 당장 구체적인 성과가 나기 어렵다. <br>
 하지만 완성되어 물이 흐르면 양동이를 나르던 때와는 차원이 다른 효율이 난다. <br>
+<h6>* 이 사람만의 독창적인 표현인지는 모른다. 다만 나는 이 채널을 통해 접했다.</h6>
 
 ### 나는 블로거이다.
 블로그는 그 파이프라인의 시작이다. <br>
