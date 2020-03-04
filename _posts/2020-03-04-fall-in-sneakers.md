@@ -9,7 +9,7 @@ tags: [fashion, shoes, nike, newbalace]
 # 그놈의 꾸안꾸 룩
 요즘은 예쁜 운동화가 좋다. <br>
 트랜드라면 트랜드일 수 있겠지만, 꾸안꾸 룩에 푹 빠져 있다. <br>
-꾸미지 않은 듯 꾸민 그 모습이 지금 나라는 사람을 잘 표현할 수 있는 모습이라고 생각했다. <br>
+꾸미지 않은 듯 꾸민 그 모습이 지금의 나라는 사람을 잘 표현할 수 있는 모습이라고 생각했다. <br>
 운동화는 그 룩을 완성하는 정점에 있는 아이템이다.<br>
 
 * Do not remove this line (it will not be displayed) 
@@ -22,13 +22,14 @@ tags: [fashion, shoes, nike, newbalace]
 그래서 나의 요즘 최대 관심사는 어떻게 나만의 개성있는 룩을 완성할 수 있을까 이다. <br>
 이제 정장스러운 옷을 입어야 할 때긴 한데, 모든 부분을 그렇게 입으면 그건 왜인지 나같지 않은 느낌이 든다. <br> 
 
-## emmi의 발견
+## emmi
 작년 겨울, 교토에서 발견한 브랜드의 원픽을 꼽으라면 바로 emmi이다.<br>
 원래 패션에 그렇게 큰 관심을 두지 않는 나였다. <br>
 그럼에도 emmi가 한 눈에 마음에 들었던 이유는<br>
-1. 미니멀하다. <br>
+1. 미니멀하다.<br>
 2. 자연스럽고 편안하다.<br>
-3. 그러면서도 기품은 유지한다.<br>
+3. 실용적이다.<br>
+4. 그러면서도 기품은 유지한다.<br>
 
 
 겨울 옷으로 위 아래 세트를 샀다. <br>
@@ -44,12 +45,11 @@ tags: [fashion, shoes, nike, newbalace]
 
 
 ## 승아로운
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9FPStSzbM3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 윤승아 이 배우 분은 역시 너무 매력적인 사람이다. <br>
 트레이닝복을 매치시켜 입는 유투브를 봤는데, 역시 꾸안꾸의 전문가다. <br>
 승아님의 뉴발 452 운동화를 너무 사고 싶은데 어딜가나 품절이다. 속상하네.<br>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/9FPStSzbM3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+ 
 
 ## 나다운 패션은
 
@@ -58,8 +58,10 @@ tags: [fashion, shoes, nike, newbalace]
 이번에 옷장의 많은 옷들을 아름다운 가게에 기부했다. <br>
 아직 입기에 멀쩡한 옷들인데도 불구하고, 나와는 맞지 않는 옷이라고 생각하는 것들은 과감히 처분했다. <br>
 
-이 책이 도움이 되었다.
+이 책이 도움이 되었다.<br>
 <a href="http://www.yes24.com/Product/Goods/66992512" title="주말엔 옷장 정리 ⎟ 이문연 지음 ⎟ 김래현 그림">
+ 주말엔 옷장 정리 ⎟ 이문연 지음 ⎟ 김래현 그림 <br>
+ 
 <img src="http://image.yes24.com/goods/66992512/800x0" style="max-width: 40%; height: auto;"> 
 
 
