@@ -14,6 +14,13 @@ tags: [fashion, shoes, nike, newbalace]
 * Do not remove this line (it will not be displayed) 
 {:toc}
 
+
+## 나이 31
+나이가 뭐 별건 아니라지만, <br>
+그래도 갖춰 입어야 하는 나이가 된 것 같다. <br>
+그래서 나의 요즘 최대 관심사는 어떻게 나만의 개성있는 룩을 완성할 수 있을까 이다. <br>
+이제 정장스러운 
+
 ## emmi의 발견
 작년 겨울, 교토에서 발견한 브랜드의 원픽을 꼽으라면 바로 emmi이다.<br>
 원래 패션에 그렇게 큰 관심을 두지 않는 나였다. <br>
@@ -30,15 +37,10 @@ tags: [fashion, shoes, nike, newbalace]
 1. 고무줄이어서 허리가 편하고<br>
 2. 기모가 되어 있어 따뜻하고<br>
 3. 약간 발수가공처리가 되어 있어, 하얀 바지임에도 오염에 강하다. <br>
-4. 바지 밑단은 지퍼를 열어 스타일리쉬하게 연출할 수도 있다. <br>
+4. 바지 밑단은 지퍼를 열어 스타일리쉬하게 연출할 수 있다. <br>
 5. 핀턱 처리가 되어 있어, 격식있는 자리에도 어울린다. <br>
 
-![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/emmi-pants.jpg)
-
-## 나이 31
-나이가 뭐 별건 아니라지만, <br>
-그래도 갖춰 입어야 하는 나이가 된 것 같다. <br>
-그래서 나의 요즘 최대 관심사는 어떻게 나만의 개성있는 룩을 완성할 수 있을까 이다. <br>
+<img src="https://d13bk85vz164q6.cloudfront.net/emmi/ProductSubImages/0/13WFP195020_p_03_LL.jpg" style="max-width: 40%; height: auto;">
 
 
 ## 승아로운
@@ -57,10 +59,10 @@ tags: [fashion, shoes, nike, newbalace]
 이번에 옷장의 많은 옷들을 아름다운 가게에 기부했다. <br>
 아직 입기에 멀쩡한 옷들인데도 불구하고, 나와는 맞지 않는 옷이라고 생각하는 것들은 과감히 처분했다. <br>
 
-주말엔 옷장 정리 ⎟ 이문연 지음 ⎟ 김래현 그림
 이 책이 도움이 되었다.
-<img src="http://image.yes24.com/goods/66992512/800x0">
-http://www.yes24.com/Product/Goods/66992512
+<a href="http://www.yes24.com/Product/Goods/66992512" title="주말엔 옷장 정리 ⎟ 이문연 지음 ⎟ 김래현 그림">
+<img src="http://image.yes24.com/goods/66992512/800x0" style="max-width: 40%; height: auto;"> 
+
 
 ### 지향점 
 기준을 정하자. <br>
