@@ -7,10 +7,10 @@ tags: [fashion, sneakers, emmi, nike, newbalace]
 ---
 
 # 그놈의 꾸안꾸 룩
-요즘은 예쁜 운동화가 좋다. <br>
 트랜드라면 트랜드일 수 있겠지만, <br>
 꾸미지 않은 듯 꾸미는 착장이 지금의 나라는 사람을 잘 표현할 수 있는 모습이라고 생각했다. <br>
 운동화는 그 룩을 완성하는 정점에 있는 아이템이다.<br>
+그래서 나는 요즘 예쁜 운동화가 좋다. <br>
 
 * Do not remove this line (it will not be displayed) 
 {:toc}
