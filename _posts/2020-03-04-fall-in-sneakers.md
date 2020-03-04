@@ -3,7 +3,7 @@ layout: post
 title: 나는 운동화를 산다 
 date:   2020-03-01 23:34:56 +0530
 categories: consumer
-tags: [fashion, shoes, nike, newbalace]
+tags: [fashion, shoes, emmi, nike, newbalace]
 ---
 
 # 그놈의 꾸안꾸 룩
