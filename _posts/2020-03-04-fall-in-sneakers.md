@@ -37,7 +37,6 @@ emmi의 디지털 카달로그이다.<br>
 연신 크디*가 미쳤나봐!를 외쳤다.<br>
 <h6>*크리에이티브 디렉터</h6><br>
 
-
 교토에서 산 바지가 특히 마음에 들었다. <br>
 
 1. 고무줄이어서 허리가 편하고<br>
@@ -65,9 +64,10 @@ emmi의 디지털 카달로그이다.<br>
 
 이 책이 도움이 되었다.<br>
 <a href="http://www.yes24.com/Product/Goods/66992512" title="주말엔 옷장 정리 ⎟ 이문연 지음 ⎟ 김래현 그림">
+ <img src="http://image.yes24.com/goods/66992512/800x0" style="max-width: 40%; height: auto;"> 
  주말엔 옷장 정리 ⎟ 이문연 지음 ⎟ 김래현 그림 <br>
  
-<img src="http://image.yes24.com/goods/66992512/800x0" style="max-width: 40%; height: auto;"> 
+
 
 
 ### 지향점 
