@@ -32,7 +32,7 @@ tags: [fashion, sneakers, emmi, nike, newbalace]
 4. 그러면서도 기품은 유지한다.<br>
 
 <a href="https://emmi.jp/page/collection/2020/ss_1st/?plan=em20200205SS1st" title="emmi-cd">
-![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/emmi-cd.png)
+![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/emmi-cd.png)<br>
 emmi의 
 카달로그이다.<br>
  
