@@ -3,7 +3,7 @@ layout: post
 title: 나는 운동화를 산다 
 date:   2020-03-01 23:34:56 +0530
 categories: consumer
-tags: [fashion, shoes, emmi, nike, newbalace]
+tags: [fashion, sneakers, emmi, nike, newbalace]
 ---
 
 # 그놈의 꾸안꾸 룩
@@ -31,9 +31,16 @@ tags: [fashion, shoes, emmi, nike, newbalace]
 3. 실용적이다.<br>
 4. 그러면서도 기품은 유지한다.<br>
 
+<a href="https://emmi.jp/page/collection/2020/ss_1st/?plan=em20200205SS1st" title="emmi-cd">
+![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/emmi-cd.png)
+emmi의 
+카달로그이다.<br>
+ 
+연신 크디*가 미쳤나봐!를 외쳤다.<br>
+<h6>*크리에이티브 디렉터</h6><br>
 
-겨울 옷으로 위 아래 세트를 샀다. <br>
-바지가 특히 마음에 들었다. <br>
+
+교토에서 산 바지가 특히 마음에 들었다. <br>
 
 1. 고무줄이어서 허리가 편하고<br>
 2. 기모가 되어 있어 따뜻하고<br>
