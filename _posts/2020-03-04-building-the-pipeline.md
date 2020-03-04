@@ -8,9 +8,9 @@ tags: [designer planner pipeline]
 
 # 파이프라인을 짓는다
 5년 차에 접어드는 디자인과 기획자 어중간한 위치에서 일해온 나란 사람은 선택이 중요한 시기에 서 있다. <br>
-나는 무슨 일을 할 것인가. 
-일로써 무엇을 얻고 싶은가.
-어떤 일을 잘 해낼 수 있을까. 
+나는 무슨 일을 할 것인가. <br>
+일로써 무엇을 얻고 싶은가.<br>
+어떤 일을 잘 해낼 수 있을까. <br>
 
 * Do not remove this line (it will not be displayed) 
 {:toc}
