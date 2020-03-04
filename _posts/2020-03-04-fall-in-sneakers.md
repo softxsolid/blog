@@ -45,7 +45,7 @@ emmi의 디지털 카달로그이다.<br>
 4. 바지 밑단은 지퍼를 열어 스타일리쉬하게 연출할 수 있다. <br>
 5. 핀턱 처리가 되어 있어, 격식 있는 자리에도 어울린다. <br>
 
-<img src="https://d13bk85vz164q6.cloudfront.net/emmi/ProductSubImages/0/13WFP195020_p_03_LL.jpg" style="max-width: 40%; height: auto;">
+<img src="https://d13bk85vz164q6.cloudfront.net/emmi/ProductSubImages/0/13WFP195020_p_03_LL.jpg" style="max-width: 30%; height: auto;">
 <h6>*품절되었다.</h6>
 <br>
 ## 승아로운
