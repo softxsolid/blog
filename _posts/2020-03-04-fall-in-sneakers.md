@@ -32,10 +32,8 @@ tags: [fashion, sneakers, emmi, nike, newbalace]
 4. 그러면서도 기품은 유지한다.<br>
 
 <a href="https://emmi.jp/page/collection/2020/ss_1st/?plan=em20200205SS1st" title="emmi-cd">
-![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/emmi-cd.png)<br>
-emmi의 
-카달로그이다.<br>
- 
+![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/emmi-cd.png)</a><br>
+emmi의 디지털 카달로그이다.<br>
 연신 크디*가 미쳤나봐!를 외쳤다.<br>
 <h6>*크리에이티브 디렉터</h6><br>
 
