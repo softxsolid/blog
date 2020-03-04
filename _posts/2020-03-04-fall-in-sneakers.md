@@ -47,7 +47,7 @@ emmi의 디지털 카달로그이다.<br>
 
 <img src="https://d13bk85vz164q6.cloudfront.net/emmi/ProductSubImages/0/13WFP195020_p_03_LL.jpg" style="max-width: 30%; height: auto;">
 <h6>*품절되었다.</h6>
-<br>
+
 ## 승아로운
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9FPStSzbM3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 배우 윤승아님의 유투브도 참 좋아한다. <br>
@@ -63,7 +63,7 @@ emmi의 디지털 카달로그이다.<br>
 이번에 옷장의 쌓인 안 입는 옷들을 아름다운 가게에 기부했다. <br>
 아직 입기에 멀쩡한 옷들인데도 불구하고, 나와는 맞지 않는 옷이라고 생각하는 것들은 과감히 처분했다. <br>
 
-옷을 정리할 때 이 책이 도움이 되었다.<br><br>
+옷을 정리할 때 이 책이 도움이 되었다.<br>
 
 <a href="http://www.yes24.com/Product/Goods/66992512" title="주말엔 옷장 정리 ⎟ 이문연 지음 ⎟ 김래현 그림">
  <img src="http://image.yes24.com/goods/66992512/800x0" style="max-width: 30%; height: auto;"> <br>
