@@ -45,7 +45,7 @@ tags: [fashion, shoes, nike, newbalace]
 
 
 ## 승아로운
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9FPStSzbM3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9FPStSzbM3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 윤승아 이 배우 분은 역시 너무 매력적인 사람이다. <br>
 트레이닝복을 매치시켜 입는 유투브를 봤는데, 역시 꾸안꾸의 전문가다. <br>
 승아님의 뉴발 452 운동화를 너무 사고 싶은데 어딜가나 품절이다. 속상하네.<br>
