@@ -32,12 +32,12 @@ tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러�
 
 ### 낮은 소파 + 중간 높이 테이블 (사실 의자)
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/dd_table.png){:  style="max-width: 50%; height: auto;"}<br>
-조금 낯선 레벨이다. 교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다.<br>
+조금 낯선 레벨이다. 교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다. 그럼에도 불구하고 안정감을 주는 높이였다.<br>
 <br>
-우리 집에는 요기보 빈백이 있다. 실제로 요기보 사용 주의 법에 '일어나기 힘들 때'에 관한 주의사항이 적혀 있을 정도로 잘 일어나기 힘들다. 마약 빈백이다. <br>
-여기에 앉아 일하려고 시도해 보았다. 노트북을 올려놓을 테이블이 중요했는데, 예산을 쓰지 않고 집에 있는 도구를 옮겨서 해결하는 지혜를 발휘해 보았다.<br>
+우리 집에는 요기보 빈백이 있다. 실제로 요기보 사용법에 '일어나기 힘들 때'에 관한 주의사항이 적혀 있을 정도로 한번 앉으면 잘 일어나기 힘들다. 마약 빈백이다. <br>
+여기에 앉아 일하려고 시도해 보았다. 노트북을 올려 놓을 테이블이 중요했는데, 예산을 쓰지 않고 집에 있는 도구를 옮겨서 해결하는 지혜를 발휘해 보았다.<br>
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/yogibotable.png){:  style="max-width: 80%; height: auto;"}<br>
-집에 테이블처럼 생긴 긴 벤치가 있다. 하지만 높이는 보통 의자의 높이이다. 나는 이것을 요기보 앞에 가져다 놓고 테이블로 쓰고 있다. <br><br>
+집에 테이블처럼 생긴 긴 벤치가 있다. 나는 이것을 요기보 앞에 가져다 놓고 테이블로 쓰고 있다. <br><br>
 최근 더 좋은 쓰임을 발견했는데 **노트북 거치대**로의 활용이다. <br>
 노트북은 배 위에 두고 테이블의 옆면에 노트북을 기대어 노트북을 세워 놓고 쓰는 형태이다.<br><br>
 전형적인 백수의 모습이다.<br>
@@ -45,14 +45,13 @@ tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러�
 보기엔 게을러 보이지만 생산성은 99%를 찍고 있다. <br>
 
 ### 좌식 테이블
-좌식 테이블은 구매를 미루고 있었다. 그런데 이번에 매직볼트 폴딩테이블 반값 할인을 운명적으로 발견하게 된 김에 구매했다. <br>
+좌식 테이블은 구매를 미루고 있었다. 그런데 이번에 매직볼트 폴딩테이블 반값 할인을 운명적으로 발견한 김에 구매했다. <br>
 
 <img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/03d968b349725.jpg" style="max-width: 80%; height: auto;">
 <a href="https://magicvault.com/" title="magicvault"><br><img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/5cb2ba45d7448.jpeg" style="max-width: 25%; height: auto;">
 
 간결하지만 다리와 상판의 접합부의 3방향으로 뻗은 구조가 멋이 있다. <br>
 가라지 가게의 선반도 비슷한 구조로 되어 있다. <br>
-이제 나도 다리를 뻗고 좌식으로 일할 수 있게 되었다. <br>
 
 
 ## 조도
@@ -68,7 +67,7 @@ tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러�
 {% highlight html %}
 화이트와 암막은 함께 할 수 없다. 꼭 기억하자. 
 {% endhighlight %} 
-포리코forico의 남색 커텐을 달았다. 무조건 어두운 색이어야 한다.<br>
+포리코 forico의 남색 커텐을 달았다. 무조건 어두운 색이어야 한다.<br>
 벽의 반 정도 높이의 작은 창이지만 벽을 모두 덮는 크기로 주문해 보았다.<br>
 가뜩이나 작은 방이기 때문에 이렇게 공간의 분할을 최소한으로 해야 공간이 덜 답답할 것 같았다.<br>
 <img src="https://www.forico.kr:14048/shop/data/goods/1539278056333l0.jpg" style="max-width: 80%; height: auto;">
@@ -76,13 +75,13 @@ tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러�
 우리집은 같이 사는 강아지의 이동권을 침해하지 않기 위해 방문을 모두 떼어냈다.<br>
 완벽한 암막 커텐을 구매해 해를 가렸는데 방문으로 빛이 들어왔다. 당황스럽다. <br>
 <br>
-이전에 다니던 요가원에서 발견한 천으로 된 문 가리개 커텐을 샀지만 테이프로 붙이는 형식이 별로였다. <br>
+이전에 다니던 요가원에서 발견한 문 가리개 커텐을 샀지만 테이프로 붙이는 형식이 별로였다. <br>
 테이프의 접착력이 떨어져 자꾸 떼어졌고, 벽지도 지저분하게 뜯어져 버렸다. <br>
 <br>
 커텐에 예산을 다 썼기 때문에, 집에 딱 적당한 크기의 천이 있어 그것으로 방문을 가리기로 했다.<br>
 문틀 위쪽에 못을 세 군데 박았고, 이케이에서 파는 집게로 된 걸이를 이용해 천을 매달았다.  <br>
 이전보다 훨씬 안정적인 형태다. <br>
-![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/curtain.png){:  style="max-width: 80%; height: auto;"}
+![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/curtain.png){:  style="max-width: 80%; height: auto;"}<br>
 벽지가 뜯어진 점은 참 안타까운 부분이다. 
 
 ## 엉따 
@@ -96,7 +95,7 @@ tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러�
 ### 플러스마이너스제로 에코 히터
 
 <img src="https://exit.ohou.se/fcb17d54e6066c2a3d0c9c7937dea4c82fbcfe1c/cicoimg.godohosting.com/pmz/reh_400/2019/REH-400_02.jpg" style="max-width: 50%; height: auto;"><br>
-난로는 겨울을 나는 중요한 도구이다.  <br>
+난로는 겨울을 나는 중요한 도구이다. <br><br>
 이때 난로를 두는 위치가 중요하다. <br>
 의자의 바로 밑에 두고 다리를 향하는 방향이 좋다. <br>
 의자의 바로 밑에 있어야 난로의 간접적인 온도가 의자까지 전해져 엉덩이도 따뜻해진다.<br>
