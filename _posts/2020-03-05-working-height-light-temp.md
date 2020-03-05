@@ -32,8 +32,8 @@ tags: [experience, 재택근무]
 <br>
 <img src="https://www.design-mkt.com/7324-thickbox_default/6-dining-chairs-se-68-egon-eiermann-1951.jpg" style="max-width: 50%; height: auto;">
 
-### 낮은 쇼파 + 중간높이 테이블(사실 의자)
-<img src="https://svcstrg2.navitime.jp/imgfile/02301_1703416_02.jpeg" style="max-width: 50%; height: auto;"><br>
+### 낮은 쇼파 + 중간 높이 테이블(사실 의자)
+<img src="https://svcstrg2.navitime.jp/imgfile/02301_1703416_02.jpeg" style="max-width: 80%; height: auto;"><br>
 조금 낯선 레벨이다. 교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다. 그래도 편하긴 하다.<br>
 우리 집에는 요기보 빈백이 있다. 실제로 요기보 사용 주의 법에 '일어나기 힘들 때'에 관한 주의사항이 적혀 있을 정도로 잘 일어나기 힘들다. 마약 빈백이다. <br>
 여기에 앉아 일을 하려고 시도해 보았다.<br>
@@ -49,7 +49,7 @@ tags: [experience, 재택근무]
 ### 좌식 테이블
 좌식 테이블은 구매를 미루고 있었다. 그런데 이번에 매직볼트 폴딩테이블 반값 할인을 운명적으로 발견하게 된 김에 구매했다. <br>
 
-<img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/03d968b349725.jpg" style="max-width: 50%; height: auto;">
+<img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/03d968b349725.jpg" style="max-width: 80%; height: auto;">
 <a href="https://magicvault.com/" title="magicvault"><br><img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/5cb2ba45d7448.jpeg" style="max-width: 25%; height: auto;">
 
 간결하지만 다리와 상판의 접합부의 3방향으로 뻗은 구조가 멋이 있다. <br>
@@ -67,7 +67,9 @@ tags: [experience, 재택근무]
 
 우리집의 침실은 낮에도 태양을 피할 수 있도록 특별히 신경썼다. <br>
 화이트 암막 커텐을 샀다가 제대로 실패해서 재주문했다. <br>
-화이트와 암막은 함께 할 수 없다. 꼭 기억하자. <br>
+{% highlight html %}
+**화이트와 암막**은 함께 할 수 없다. 꼭 기억하자. 
+{% endhighlight %} <br>
 포리코forico의 남색 커텐을 달았다. <br>
 무조건 어두운 색이어야 한다.<br>
 벽의 반 정도 높이의 작은 창이지만 벽을 모두 덮는 크기로 주문해 보았다.<br>
@@ -81,6 +83,8 @@ tags: [experience, 재택근무]
 테이프의 접착력이 떨어져 자꾸 떼어졌고, 벽지도 지저분하게 뜯어져 버렸다. <br>
 문틀 위쪽에 못을 세군데 박았고, 이케이에서 파는 집게로 된 걸이를 이용해 천을 매달았다.  <br>
 이전보다 훨씬 안정적인 형태다. <br>
+![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/curtain.JPG)</a><br>
+
 
 ## 엉따 발따
 
