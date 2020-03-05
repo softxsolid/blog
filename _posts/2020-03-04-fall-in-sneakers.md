@@ -45,7 +45,7 @@ emmi의 디지털 카달로그이다.<br>
 4. 바지 밑단은 지퍼를 열어 스타일리쉬하게 연출할 수 있다. <br>
 5. 핀턱 처리가 되어 있어, 격식 있는 자리에도 어울린다. <br>
 
-<img src="https://d13bk85vz164q6.cloudfront.net/emmi/ProductSubImages/0/13WFP195020_p_03_LL.jpg" style="max-width: 30%; height: auto;">
+<img src="https://d13bk85vz164q6.cloudfront.net/emmi/ProductSubImages/0/13WFP195020_p_03_LL.jpg" style="max-width: 40%; height: auto;">
 <h6>*품절되었다.</h6>
 
 ## 승아로운
@@ -77,12 +77,15 @@ emmi의 디지털 카달로그이다.<br>
 
 ## 일본은 지금 #Kotoo 운동 중 
 
-<!-- Google / Search Engine Tags / 구글 검색 엔진 -->
-<meta itemprop="name" content="Daum">
+<meta itemprop="name" content="bbc">
 <meta itemprop="description" content="#KuToo: 일본 여성들이 벌이는 하이힐 해방 운동">
 <meta itemprop="image" content="https://www.bbc.com/korean/news-48507642">
 
+
+
 #KuToo는 일본 여성들이 벌이는 하이힐 해방 운동이다.
-일하는 장소에서 
+일하는 장소에서 꼭 구두를 신지 않아도 된다. 
+진정한 작업복다운 룩 
+
 
 
