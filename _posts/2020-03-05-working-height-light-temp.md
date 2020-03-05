@@ -69,7 +69,7 @@ tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러�
 화이트와 암막은 함께 할 수 없다. 꼭 기억하자. 
 {% endhighlight %} 
 포리코 forico의 남색 커텐을 달았다. 무조건 어두운 색이어야 한다.<br>
-벽의 반 정도 높이의 작은 창이지만 벽을 모두 덮는 크기로 주문해 보았다.<br>
+창은 벽의 반 정도 높이로 작지만 커텐은 한 쪽 벽을 모두 덮는 크기로 주문했다.<br>
 가뜩이나 작은 방이기 때문에 이렇게 공간의 분할을 최소한으로 해야 공간이 덜 답답할 것 같았다.<br>
 <img src="https://www.forico.kr:14048/shop/data/goods/1539278056333l0.jpg" style="max-width: 80%; height: auto;">
 
