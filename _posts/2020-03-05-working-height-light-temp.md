@@ -3,7 +3,7 @@ layout: post
 title: 일하는 공간의 레벨과 밝기와 온도
 date:   2020-03-05 23:34:56 +0530
 categories: space 
-tags: [experience, 재택근무]
+tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러스마이너스제로,에코히터]
 ---
 
 # 집에서 오래 일하다 보니
@@ -23,23 +23,21 @@ tags: [experience, 재택근무]
 가장 기본적인 구성이다. <br>
 하지만 이런 자세로 오래 앉아 있으면 좀이 쑤신다. <br>
 회사도 아닌데 굳이 이런 자세로 왜 오래 앉아 있어야 할까.<br>
-그래도 내 의자는 좋은 의자이다. <br>
+그래도 내 의자는 좋은 의자이다. <br><br>
 <img src="https://www.design-mkt.com/7324-thickbox_default/6-dining-chairs-se-68-egon-eiermann-1951.jpg" style="max-width: 50%; height: auto;"><br>
-나의 의자는 se86이다.<br>
-빈티지 의자를 파는 가게에서 많은 의자에 앉아 보았지만 <br>
-이 의자만큼 자세를 편안하게 해주는 의자를 찾기 힘들었다. <br>
+나의 의자는 **egon eiermann의 se86**이다.<br>
+빈티지 의자를 파는 가게에서 많은 의자에 앉아 보았지만 이 의자만큼 자세를 편안하게 해주는 의자를 찾기 힘들었다. <br>
 나는 나무 가구가 많아서 나무로 된 버전을 가지고 있다. <br>
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/se86.png){:  style="max-width: 50%; height: auto;"}
 
 ### 낮은 소파 + 중간 높이 테이블 (사실 의자)
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/dd_table.png){:  style="max-width: 50%; height: auto;"}<br>
 조금 낯선 레벨이다. 교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다.<br>
-![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/yogibotable.png){:  style="max-width: 80%; height: auto;"}<br>
+<br>
 우리 집에는 요기보 빈백이 있다. 실제로 요기보 사용 주의 법에 '일어나기 힘들 때'에 관한 주의사항이 적혀 있을 정도로 잘 일어나기 힘들다. 마약 빈백이다. <br>
-여기에 앉아 일하려고 시도해 보았다.<br>
-노트북의 위치를 잘 잡아야 하는데, 예산을 쓰지 않고 집에 있는 도구를 옮겨서 해결하는 지혜를 발휘해 보았다.<br>
-집에 테이블처럼 생긴 긴 벤치가 있다. 하지만 높이는 보통 의자의 높이이다. <br>
-나는 이것을 요기보 앞에 가져다 놓고 테이블로 쓰고 있다. <br>
+여기에 앉아 일하려고 시도해 보았다. 노트북을 올려놓을 테이블이 중요했는데, 예산을 쓰지 않고 집에 있는 도구를 옮겨서 해결하는 지혜를 발휘해 보았다.<br>
+![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/yogibotable.png){:  style="max-width: 80%; height: auto;"}<br>
+집에 테이블처럼 생긴 긴 벤치가 있다. 하지만 높이는 보통 의자의 높이이다. 나는 이것을 요기보 앞에 가져다 놓고 테이블로 쓰고 있다. <br><br>
 최근 더 좋은 쓰임을 발견했는데 **노트북 거치대**로의 활용이다. <br>
 노트북은 배 위에 두고 테이블의 옆면에 노트북을 기대어 노트북을 세워 놓고 쓰는 형태이다.<br><br>
 전형적인 백수의 모습이다.<br>
@@ -77,18 +75,20 @@ tags: [experience, 재택근무]
 
 우리집은 같이 사는 강아지의 이동권을 침해하지 않기 위해 방문을 모두 떼어냈다.<br>
 완벽한 암막 커텐을 구매해 해를 가렸는데 방문으로 빛이 들어왔다. 당황스럽다. <br>
-커텐에 예산을 다 썼고, 집에 딱 적당한 크기의 천이 있어 그것으로 방문을 가리기로 했다.<br>
+<br>
 이전에 다니던 요가원에서 발견한 천으로 된 문 가리개 커텐을 샀지만 테이프로 붙이는 형식이 별로였다. <br>
 테이프의 접착력이 떨어져 자꾸 떼어졌고, 벽지도 지저분하게 뜯어져 버렸다. <br>
+<br>
+커텐에 예산을 다 썼기 때문에, 집에 딱 적당한 크기의 천이 있어 그것으로 방문을 가리기로 했다.<br>
 문틀 위쪽에 못을 세 군데 박았고, 이케이에서 파는 집게로 된 걸이를 이용해 천을 매달았다.  <br>
 이전보다 훨씬 안정적인 형태다. <br>
-![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/curtain.JPG){:  style="max-width: 80%; height: auto;"}
+![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/curtain.png){:  style="max-width: 80%; height: auto;"}
 벽지가 뜯어진 점은 참 안타까운 부분이다. 
 
 ## 엉따 
 
 엉덩이의 따뜻함은 중요하다.<br> 
-내가 택시 타다를 통해 감동의 눈물을 흘렸던 포인트가 바로 히팅시트Heating seat였다.<br> 
+택시 타다를 탈 때 감동의 눈물을 흘렸던 포인트가 바로 히팅시트 Heating seat였다.<br> 
 타다는 야근 후에만 탈 수 있는 고귀한 경험이었다.<br> 
 험준한 업무를 끝내고 집으로 돌아오는 길에 함께 했던 타다는 참 소중했는데.<br> 
 <a href="https://www.bloter.net/archives/373373" title="saygoodbyetotada">이대로 없어지는 건가.<br> 
