@@ -24,14 +24,14 @@ tags: [experience, 재택근무]
 하지만 이런 자세로 오래 앉아 있으면 좀이 쑤신다. <br>
 회사도 아닌데 굳이 이런 자세로 왜 오래 앉아 있어야 할까.<br>
 그래도 내 의자는 좋은 의자이다. <br>
-<img src="https://www.design-mkt.com/7324-thickbox_default/6-dining-chairs-se-68-egon-eiermann-1951.jpg" style="max-width: 50%; height: auto;">
+<img src="https://www.design-mkt.com/7324-thickbox_default/6-dining-chairs-se-68-egon-eiermann-1951.jpg" style="max-width: 50%; height: auto;"><br>
 나의 의자는 se86이다.<br>
-빈티지 의자를 사고 싶어서 가게의 많은 의자에 앉아 보았지만 <br>
+빈티지 의자를 파는 가게에서 많은 의자에 앉아 보았지만 <br>
 이 의자만큼 자세를 편안하게 해주는 의자를 찾기 힘들었다. <br>
 나는 나무 가구가 많아서 나무로 된 버전을 가지고 있다. <br>
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/se86.png){:  style="max-width: 50%; height: auto;"}
 
-### 낮은 쇼파 + 중간 높이 테이블 (사실 의자)
+### 낮은 소파 + 중간 높이 테이블 (사실 의자)
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/dd_table.png){:  style="max-width: 50%; height: auto;"}<br>
 조금 낯선 레벨이다. 교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다.<br>
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/yogibotable.png){:  style="max-width: 80%; height: auto;"}
@@ -78,12 +78,12 @@ tags: [experience, 재택근무]
 우리집은 같이 사는 강아지의 이동권을 침해하지 않기 위해 방문을 모두 떼어냈다.<br>
 완벽한 암막 커텐을 구매해 해를 가렸는데 방문으로 빛이 들어왔다. 당황스럽다. <br>
 커텐에 예산을 다 썼고, 집에 딱 적당한 크기의 천이 있어 그것으로 방문을 가리기로 했다.<br>
-이전에 요가원에서 발견한 천으로 된 문 가리개 커텐을 샀지만 테이프로 붙이는 형식이 별로였다. <br>
+이전에 다니던 요가원에서 발견한 천으로 된 문 가리개 커텐을 샀지만 테이프로 붙이는 형식이 별로였다. <br>
 테이프의 접착력이 떨어져 자꾸 떼어졌고, 벽지도 지저분하게 뜯어져 버렸다. <br>
 문틀 위쪽에 못을 세 군데 박았고, 이케이에서 파는 집게로 된 걸이를 이용해 천을 매달았다.  <br>
 이전보다 훨씬 안정적인 형태다. <br>
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/curtain.JPG){:  style="max-width: 80%; height: auto;"}
-
+벽지가 뜯어진 점은 참 안타까운 부분이다. 
 
 ## 엉따 
 
@@ -100,14 +100,14 @@ tags: [experience, 재택근무]
 이때 난로를 두는 위치가 중요하다. <br>
 의자의 바로 밑에 두고 다리를 향하는 방향이 좋다. <br>
 의자의 바로 밑에 있어야 난로의 간접적인 온도가 의자까지 전해져 엉덩이도 따뜻해진다.<br>
-<br>
 너무 뜨거우면 가끔 바지가 탈 것만 같으니 가장 낮은 세기로 틀어 놓는다.<br>
+![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/heaterposition.png){:  style="max-width: 80%; height: auto;"}<br>
 다만 불편한 점은 버튼의 위치이다. 바닥 쪽에 있어 몸을 한참 숙여야 한다.<br>
 손을 내리면 딱 닿는 위치에 있었으면 참 좋았을 텐데.<br>
-![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/heaterposition.png){:  style="max-width: 80%; height: auto;"}
+
 
 # 성실한 재택근무자<br>
 
 항상 집에 있는 재택근무자는 이렇게 성실하게도 생산성 높은 업무 환경을 고민한다. <br>
-이제 일을 하자.<br>
+이제 진짜 일을 하자.<br>
 
