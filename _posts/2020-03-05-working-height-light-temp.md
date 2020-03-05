@@ -29,20 +29,19 @@ tags: [experience, 재택근무]
 빈티지 의자를 사고 싶어서 가게의 많은 의자에 앉아 보았지만 <br>
 이 의자만큼 자세를 편안하게 해주는 의자를 찾기 힘들었다. <br>
 나는 나무 가구가 많아서 나무로 된 버전을 가지고 있다. <br>
+<br>
 <img src="https://www.design-mkt.com/7324-thickbox_default/6-dining-chairs-se-68-egon-eiermann-1951.jpg" style="max-width: 50%; height: auto;">
 
 ### 낮은 쇼파 + 중간높이 테이블(사실 의자)
 
-조금 낯선 레벨이다.<br>
-교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다.<br>
-그래도 편하긴 하다.<br>
-우리 집에는 요기보 빈백이 있다. <br>
-실제로 요기보 사용 주의 법에 '일어나기 힘들 때'에 관한 주의사항이 적혀 있을 정도로 잘 일어나기 힘들다. 마약 빈백이다. <br>
+조금 낯선 레벨이다. 교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다. 그래도 편하긴 하다.<br>
+<img src="https://gi.esmplus.com/yogibo/image/supportProInterior.png" style="max-width: 50%; height: auto;"><br>
+우리 집에는 요기보 빈백이 있다. 실제로 요기보 사용 주의 법에 '일어나기 힘들 때'에 관한 주의사항이 적혀 있을 정도로 잘 일어나기 힘들다. 마약 빈백이다. <br>
 여기에 앉아 일을 하려고 시도해 보았다.<br>
 노트북의 위치를 잘 잡아야 하는데, 예산을 쓰지 않고 집에 있는 도구를 옮겨서 해결하는 지혜를 발휘해 보았다.<br>
 집에 테이블처럼 생긴 긴 벤치가 있다. 하지만 높이는 보통 의자의 높이이다. <br>
 나는 이것을 요기보 앞에 가져다 놓고 테이블로 쓰고 있다. <br>
-최근 더 좋은 쓰임을 발견했는데 노트북 거치대로의 활용이다. <br>
+최근 더 좋은 쓰임을 발견했는데 **노트북 거치대**로의 활용이다. <br>
 노트북은 배 위에 두고 테이블의 옆면에 노트북을 기대어 노트북을 세워 놓고 쓰는 형태이다.<br>
 전형적인 백수의 모습이다.<br>
 지금 이 글도 그 자세로 쓰고 있다. <br>
@@ -52,8 +51,7 @@ tags: [experience, 재택근무]
 좌식 테이블은 구매를 미루고 있었다. 그런데 이번에 매직볼트 폴딩테이블 반값 할인을 운명적으로 발견하게 된 김에 구매했다. <br>
 
 <img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/03d968b349725.jpg" style="max-width: 50%; height: auto;">
-<img src="https://cdn.imweb.me/thumbnail/20191027/ca2dad6624064.jpg" style="max-width: 50%; height: auto;">
-<a href="https://magicvault.com/" title="magicvault"><img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/5cb2ba45d7448.jpeg" style="max-width: 25%; height: auto;">
+<a href="https://magicvault.com/" title="magicvault"><img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/5cb2ba45d7448.jpeg" style="max-width: 15%; height: auto;">
 
 간결하지만 다리와 상판의 접합부의 3방향으로 뻗은 구조가 멋이 있다. <br>
 가라지 가게의 선반도 비슷한 구조로 되어 있다. <br>
@@ -70,12 +68,12 @@ tags: [experience, 재택근무]
 
 우리집의 침실은 낮에도 태양을 피할 수 있도록 특별히 신경썼다. <br>
 화이트 암막 커텐을 샀다가 제대로 실패해서 재주문했다. <br>
-* 화이트와 암막은 함께 할 수 없다. 꼭 기억하자. <br>
+화이트와 암막은 함께 할 수 없다. 꼭 기억하자. <br>
 포리코forico의 남색 커텐을 달았다. <br>
 무조건 어두운 색이어야 한다.<br>
 벽의 반 정도 높이의 작은 창이지만 벽을 모두 덮는 크기로 주문해 보았다.<br>
 가뜩이나 작은 방이기 때문에 이렇게 공간의 분할을 최소한으로 해야 공간이 덜 답답할 것 같았다.<br>
-<img src="https://www.forico.kr:14048/shop/data/goods/1539278056333l0.jpg" style="max-width: 100%; height: auto;">
+<img src="https://www.forico.kr:14048/shop/data/goods/1539278056333l0.jpg" style="max-width: 80%; height: auto;">
 
 우리집은 같이 사는 강아지의 이동권을 침해하지 않기 위해 방문을 모두 떼어냈다.<br>
 완벽한 암막 커텐을 구매해 해를 가렸는데 방문으로 빛이 들어왔다. 당황스럽다. <br>
@@ -95,7 +93,7 @@ tags: [experience, 재택근무]
 
 ### 플러스마이너스 에코히터
 
-<img src="https://exit.ohou.se/fcb17d54e6066c2a3d0c9c7937dea4c82fbcfe1c/cicoimg.godohosting.com/pmz/reh_400/2019/REH-400_02.jpg" style="max-width: 50%; height: auto;">
+<img src="https://exit.ohou.se/fcb17d54e6066c2a3d0c9c7937dea4c82fbcfe1c/cicoimg.godohosting.com/pmz/reh_400/2019/REH-400_02.jpg" style="max-width: 50%; height: auto;"><br>
 난로는 겨울을 나는 중요한 도구이다.  <br>
 이때 난로를 두는 위치가 중요하다. <br>
 의자의 바로 밑에 두고 다리를 향하는 방향이 좋다. <br>
@@ -105,7 +103,7 @@ tags: [experience, 재택근무]
 다만 불편한 점은 버튼의 위치이다. 바닥 쪽에 있어 몸을 한참 숙여야 한다.<br>
 손을 내리면 딱 닿는 위치에 있었으면 참 좋았을텐데.<br>
 
-#집에서 일하는 사람<br>
+# 집에서 일하는 사람<br>
 
 집에서 일하는 사람은 이렇게나 생산성 높은 업무 환경을 고민한다. <br>
 이제 일을 하자.<br>
