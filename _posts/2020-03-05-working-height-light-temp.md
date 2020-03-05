@@ -69,7 +69,7 @@ tags: [experience, 재택근무]
 화이트 암막 커텐을 샀다가 제대로 실패해서 재주문했다. <br>
 {% highlight html %}
 화이트와 암막은 함께 할 수 없다. 꼭 기억하자. 
-{% endhighlight %} <br>
+{% endhighlight %} 
 포리코forico의 남색 커텐을 달았다. <br>
 무조건 어두운 색이어야 한다.<br>
 벽의 반 정도 높이의 작은 창이지만 벽을 모두 덮는 크기로 주문해 보았다.<br>
