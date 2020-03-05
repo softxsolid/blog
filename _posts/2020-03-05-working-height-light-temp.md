@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 일하는 공간의 레벨과 밝기와 온도
+title: 일하는 공간의 높이와 밝기와 온도
 date:   2020-03-05 23:34:56 +0530
 categories: space 
 tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러스마이너스제로,에코히터]
@@ -16,7 +16,7 @@ tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러�
 {:toc}
 
 
-## 레벨
+## 높이
 
 
 ### 책상 + 의자
