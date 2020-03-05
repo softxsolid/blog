@@ -7,7 +7,7 @@ tags: [experience, 재택근무]
 ---
 
 # 집에서 오래 일하다보니
-집에선 남의 시선을 신경쓰지 않고 최적의 일하는 환경을 구성하려고 노력한다.<br>
+집에선 남의 시선을 신경 쓰지 않고 최적의 일하는 환경을 구성하려고 노력한다.<br>
 고용되지 않은 상태의 일은 해도 되고 안해도 되는 일이기 때문에<br>
 자신의 의지를 견고하게 다지지 않으면 안된다.<br>
 공간을 잘 구성하는 일은 그 의지를 유지하는데 중요한 역할을 한다.<br>
@@ -24,24 +24,24 @@ tags: [experience, 재택근무]
 하지만 이런 자세로 오래 앉아 있으면 좀이 쑤신다. <br>
 회사도 아닌데 굳이 이런 자세로 왜 오래 앉아 있어야 할까.<br>
 그래도 내 의자는 좋은 의자이다. <br>
-
+<img src="https://www.design-mkt.com/7324-thickbox_default/6-dining-chairs-se-68-egon-eiermann-1951.jpg" style="max-width: 50%; height: auto;">
 나의 의자는 se86이다.<br>
 빈티지 의자를 사고 싶어서 가게의 많은 의자에 앉아 보았지만 <br>
 이 의자만큼 자세를 편안하게 해주는 의자를 찾기 힘들었다. <br>
 나는 나무 가구가 많아서 나무로 된 버전을 가지고 있다. <br>
-<br>
-<img src="https://www.design-mkt.com/7324-thickbox_default/6-dining-chairs-se-68-egon-eiermann-1951.jpg" style="max-width: 50%; height: auto;">
+![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/se86.png){:  style="max-width: 50%; height: auto;"}
 
 ### 낮은 쇼파 + 중간 높이 테이블 (사실 의자)
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/dd_table.png){:  style="max-width: 50%; height: auto;"}<br>
-조금 낯선 레벨이다. 교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다. 그래도 편하긴 하다.<br>
+조금 낯선 레벨이다. 교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다.<br>
+![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/yogibotable.png){:  style="max-width: 80%; height: auto;"}
 우리 집에는 요기보 빈백이 있다. 실제로 요기보 사용 주의 법에 '일어나기 힘들 때'에 관한 주의사항이 적혀 있을 정도로 잘 일어나기 힘들다. 마약 빈백이다. <br>
 여기에 앉아 일을 하려고 시도해 보았다.<br>
 노트북의 위치를 잘 잡아야 하는데, 예산을 쓰지 않고 집에 있는 도구를 옮겨서 해결하는 지혜를 발휘해 보았다.<br>
 집에 테이블처럼 생긴 긴 벤치가 있다. 하지만 높이는 보통 의자의 높이이다. <br>
 나는 이것을 요기보 앞에 가져다 놓고 테이블로 쓰고 있다. <br>
 최근 더 좋은 쓰임을 발견했는데 **노트북 거치대**로의 활용이다. <br>
-노트북은 배 위에 두고 테이블의 옆면에 노트북을 기대어 노트북을 세워 놓고 쓰는 형태이다.<br>
+노트북은 배 위에 두고 테이블의 옆면에 노트북을 기대어 노트북을 세워 놓고 쓰는 형태이다.<br><br>
 전형적인 백수의 모습이다.<br>
 지금 이 글도 그 자세로 쓰고 있다. <br>
 보기엔 게을러 보이지만 생산성은 99%를 찍고 있다. <br>
@@ -70,8 +70,7 @@ tags: [experience, 재택근무]
 {% highlight html %}
 화이트와 암막은 함께 할 수 없다. 꼭 기억하자. 
 {% endhighlight %} 
-포리코forico의 남색 커텐을 달았다. <br>
-무조건 어두운 색이어야 한다.<br>
+포리코forico의 남색 커텐을 달았다. 무조건 어두운 색이어야 한다.<br>
 벽의 반 정도 높이의 작은 창이지만 벽을 모두 덮는 크기로 주문해 보았다.<br>
 가뜩이나 작은 방이기 때문에 이렇게 공간의 분할을 최소한으로 해야 공간이 덜 답답할 것 같았다.<br>
 <img src="https://www.forico.kr:14048/shop/data/goods/1539278056333l0.jpg" style="max-width: 80%; height: auto;">
@@ -94,7 +93,7 @@ tags: [experience, 재택근무]
 험준한 업무를 끝내고 집으로 돌아오는 길에 함께 했던 타다는 참 소중했는데.<br> 
 <a href="https://www.bloter.net/archives/373373" title="saygoodbyetotada">이대로 없어지는 건가.<br> 
 
-### 플러스마이너스 에코히터
+### 플러스마이너스제로 에코히터
 
 <img src="https://exit.ohou.se/fcb17d54e6066c2a3d0c9c7937dea4c82fbcfe1c/cicoimg.godohosting.com/pmz/reh_400/2019/REH-400_02.jpg" style="max-width: 50%; height: auto;"><br>
 난로는 겨울을 나는 중요한 도구이다.  <br>
@@ -105,11 +104,10 @@ tags: [experience, 재택근무]
 너무 뜨거우면 가끔 바지가 탈 것만 같으니 가장 낮은 세기로 틀어 놓는다.<br>
 다만 불편한 점은 버튼의 위치이다. 바닥 쪽에 있어 몸을 한참 숙여야 한다.<br>
 손을 내리면 딱 닿는 위치에 있었으면 참 좋았을텐데.<br>
+![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/heaterposition.png){:  style="max-width: 80%; height: auto;"}
 
-# 집에서 일하는 사람<br>
+# 성실한 재택근무자<br>
 
-집에서 일하는 사람은 이렇게나 생산성 높은 업무 환경을 고민한다. <br>
+항상 집에 있는 재택근무자는 이렇게 성실하게도 생산성 높은 업무 환경을 고민한다. <br>
 이제 일을 하자.<br>
-
-
 
