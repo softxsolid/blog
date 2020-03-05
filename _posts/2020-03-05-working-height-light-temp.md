@@ -26,16 +26,16 @@ tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러�
 그래도 내 의자는 좋은 의자이다. <br><br>
 <img src="https://www.design-mkt.com/7324-thickbox_default/6-dining-chairs-se-68-egon-eiermann-1951.jpg" style="max-width: 50%; height: auto;"><br>
 나의 의자는 **egon eiermann의 se86**이다.<br>
-빈티지 의자를 파는 가게에서 많은 의자에 앉아 보았지만 이 의자만큼 자세를 편안하게 해주는 의자를 찾기 힘들었다. <br>
+빈티지 의자를 파는 가게에서 많은 의자에 앉아 보았지만 <br> 이 의자만큼 자세를 편안하게 해주는 의자를 찾기 힘들었다. <br>
 나는 나무 가구가 많아서 나무로 된 버전을 가지고 있다. <br>
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/se86.png){:  style="max-width: 50%; height: auto;"}
 
 ### 낮은 소파 + 중간 높이 테이블 (사실 의자)
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/dd_table.png){:  style="max-width: 50%; height: auto;"}<br>
-조금 낯선 레벨이다. 교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다. 그럼에도 불구하고 안정감을 주는 높이였다.<br>
+조금 낯선 레벨이다. 교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다.<br> 그럼에도 불구하고 안정감을 주는 높이였다.<br>
 <br>
-우리 집에는 요기보 빈백이 있다. 실제로 요기보 사용법에 '일어나기 힘들 때'에 관한 주의사항이 적혀 있을 정도로 한번 앉으면 잘 일어나기 힘들다. 마약 빈백이다. <br>
-여기에 앉아 일하려고 시도해 보았다. 노트북을 올려 놓을 테이블이 중요했는데, 예산을 쓰지 않고 집에 있는 도구를 옮겨서 해결하는 지혜를 발휘해 보았다.<br>
+우리 집에는 요기보 빈백이 있다. <br>실제로 요기보 사용법에 '일어나기 힘들 때'에 관한 주의사항이 적혀 있을 정도로 한번 앉으면 잘 일어나기 힘들다. <br>마약 빈백이다. <br>
+여기에 앉아 일하려고 시도해 보았다.<br> 노트북을 올려 놓을 테이블이 중요했는데, 예산을 쓰지 않고 집에 있는 도구를 옮겨서 해결하는 지혜를 발휘해 보았다.<br>
 ![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/yogibotable.png){:  style="max-width: 80%; height: auto;"}<br>
 집에 테이블처럼 생긴 긴 벤치가 있다. 나는 이것을 요기보 앞에 가져다 놓고 테이블로 쓰고 있다. <br><br>
 최근 더 좋은 쓰임을 발견했는데 **노트북 거치대**로의 활용이다. <br>
@@ -45,7 +45,8 @@ tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러�
 보기엔 게을러 보이지만 생산성은 99%를 찍고 있다. <br>
 
 ### 좌식 테이블
-좌식 테이블은 구매를 미루고 있었다. 그런데 이번에 매직볼트 폴딩테이블 반값 할인을 운명적으로 발견한 김에 구매했다. <br>
+이런 저런 방법을 고민하며 좌식 테이블의 구매는 미루고 있었다. <br> 
+그런데 이번에 매직볼트 폴딩테이블 반값 할인을 운명적으로 발견한 김에 구매했다. <br>
 
 <img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/03d968b349725.jpg" style="max-width: 80%; height: auto;">
 <a href="https://magicvault.com/" title="magicvault"><br><img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/5cb2ba45d7448.jpeg" style="max-width: 25%; height: auto;">
