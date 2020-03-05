@@ -33,9 +33,8 @@ tags: [experience, 재택근무]
 <img src="https://www.design-mkt.com/7324-thickbox_default/6-dining-chairs-se-68-egon-eiermann-1951.jpg" style="max-width: 50%; height: auto;">
 
 ### 낮은 쇼파 + 중간높이 테이블(사실 의자)
-
+<img src="https://svcstrg2.navitime.jp/imgfile/02301_1703416_02.jpeg" style="max-width: 50%; height: auto;"><br>
 조금 낯선 레벨이다. 교토 d&de의 식당이 딱 이런 레벨로 구성되어 있는데 그때도 약간 어색함을 느꼈다. 그래도 편하긴 하다.<br>
-<img src="https://gi.esmplus.com/yogibo/image/supportProInterior.png" style="max-width: 50%; height: auto;"><br>
 우리 집에는 요기보 빈백이 있다. 실제로 요기보 사용 주의 법에 '일어나기 힘들 때'에 관한 주의사항이 적혀 있을 정도로 잘 일어나기 힘들다. 마약 빈백이다. <br>
 여기에 앉아 일을 하려고 시도해 보았다.<br>
 노트북의 위치를 잘 잡아야 하는데, 예산을 쓰지 않고 집에 있는 도구를 옮겨서 해결하는 지혜를 발휘해 보았다.<br>
