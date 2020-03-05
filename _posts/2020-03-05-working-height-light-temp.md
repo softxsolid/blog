@@ -51,7 +51,7 @@ tags: [experience, 재택근무]
 좌식 테이블은 구매를 미루고 있었다. 그런데 이번에 매직볼트 폴딩테이블 반값 할인을 운명적으로 발견하게 된 김에 구매했다. <br>
 
 <img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/03d968b349725.jpg" style="max-width: 50%; height: auto;">
-<a href="https://magicvault.com/" title="magicvault"><img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/5cb2ba45d7448.jpeg" style="max-width: 15%; height: auto;">
+<a href="https://magicvault.com/" title="magicvault"><br><img src="https://cdn.imweb.me/upload/S201712115a2e3e728186c/5cb2ba45d7448.jpeg" style="max-width: 15%; height: auto;">
 
 간결하지만 다리와 상판의 접합부의 3방향으로 뻗은 구조가 멋이 있다. <br>
 가라지 가게의 선반도 비슷한 구조로 되어 있다. <br>
