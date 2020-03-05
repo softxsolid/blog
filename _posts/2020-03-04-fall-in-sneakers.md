@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 나는 운동화를 산다 
-date:   2020-03-01 23:34:56 +0530
+date:   2020-03-04 23:34:56 +0530
 categories: consumer
 tags: [fashion, sneakers, emmi, nike, newbalace]
 ---
@@ -19,7 +19,7 @@ tags: [fashion, sneakers, emmi, nike, newbalace]
 ## 나이 31
 나이가 뭐 별건 아니라지만, <br>
 그래도 갖춰 입어야 하는 나이가 된 것 같다. <br>
-그래서 나의 요즘 최대 관심사는 '어떻게 갖춰입으면서도, 나만의 개성 있는 룩을 완성할 수 있을까'이다. <br>
+그래서 나의 요즘 최대 관심사는 '갖춰 입으면서도, 나다운 룩을 완성하는 것'이다. <br>
 이제 정장스러운 옷을 입어야 할 때긴 한데, 모든 부분을 그렇게 입으면 그건 왜인지 나 같지 않은 느낌이 든다. <br> 
 
 ## emmi
