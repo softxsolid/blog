@@ -4,9 +4,8 @@ title: 일하는 공간의 높이와 밝기와 온도
 date:   2020-03-05 23:34:56 +0530
 categories: space 
 tags: [experience,재택근무,egon eiermann,se86,요기보,매직볼트,플러스마이너스제로,에코히터]
-...
-published : false
-...
+
+published: false
 ---
 
 # 집에서 오래 일하다 보니
