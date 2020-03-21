@@ -4,9 +4,8 @@ title: 나이키의 화자는 언제부터 언니가 되었을까?
 date:   2020-03-21 23:34:56 +0530
 categories: branding
 tags: [nike brand feminism]
-...
+
 published : true
-...
 ---
 
 
