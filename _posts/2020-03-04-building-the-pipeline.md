@@ -4,6 +4,7 @@ title: 길을 잃지 않는 법
 date:   2020-03-04 23:34:56 +0530
 categories: career
 tags: [designer planner pipeline]
+published : false
 ---
 
 # 파이프라인을 짓는다
